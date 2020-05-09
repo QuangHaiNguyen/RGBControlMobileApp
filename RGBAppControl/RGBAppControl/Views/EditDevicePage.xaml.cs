@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RGBAppControl.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,12 @@ namespace RGBAppControl.Views
         public EditDevicePage()
         {
             InitializeComponent();
+        }
+
+        public EditDevicePage(Models.Device selectedDevice)
+        {
+            InitializeComponent();
+            BindingContext = new EditDevicePageViewModel(selectedDevice);
         }
 
         async void ToolbarItemUpdate_Clicked(object sender, EventArgs e)

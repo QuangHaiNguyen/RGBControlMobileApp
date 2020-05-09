@@ -13,13 +13,13 @@
     <ContentPage.Content>
         <StackLayout Spacing="20" Padding="15">
             <Label Text="Name" FontSize="Medium" />
-            <Entry Text="{Binding Item.Name}" d:Text="Item name" FontSize="Small" />
+            <Entry Text="{Binding Device.Name}" d:Text="Item name" FontSize="Small" />
             <Label Text="IP" FontSize="Medium" />
-            <Editor Text="{Binding Item.IP}" d:Text="Item description" FontSize="Small" Margin="0" />
+            <Editor Text="{Binding Device.IP}" d:Text="Item description" FontSize="Small" Margin="0" />
             <Label Text="Port" FontSize="Medium" />
-            <Editor Text="{Binding Item.Port}" d:Text="Item description" FontSize="Small" Margin="0" />
+            <Editor Text="{Binding Device.Port}" d:Text="Item description" FontSize="Small" Margin="0" />
             <Label Text="Number Of LEDs:" FontSize="Medium" />
-            <Editor Text="{Binding Item.Num_Of_Led}" d:Text="Item description" FontSize="Small" Margin="0" />
+            <Editor Text="{Binding Device.Num_Of_Led}" d:Text="Item description" FontSize="Small" Margin="0" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

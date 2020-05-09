@@ -20,14 +20,14 @@
     
     <StackLayout>
         <Label Text="{Binding Message}"/>
-        <ListView ItemsSource="{Binding Items}>
+        <ListView x:Name="DeviceList" ItemsSource="{Binding Devices}">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <ViewCell >
+                    <ViewCell>
                         <ViewCell.ContextActions>
                             <MenuItem Text="Edit"
-                                    IconImageSource="icon.png"
-                                    Clicked="MenuItem_Clicked"/>
+                                    Command="{Binding Source={x:Reference this}, Path=BindingContext.EditCommand}"
+                                    CommandParameter="{Binding .}"/>
                             <MenuItem Text="Delete"
                                     Command="{Binding Source={x:Reference this}, Path=BindingContext.DeleteCommand}"
                                     CommandParameter="{Binding .}"/>
@@ -35,7 +35,7 @@
                                     Command="{Binding Source={x:Reference this}, Path=BindingContext.ControlCommand}"
                                     CommandParameter="{Binding .}"/>
                         </ViewCell.ContextActions>
-                        <Label Text="{Binding .}" Padding="20,0,0,0" FontSize="Medium"  VerticalTextAlignment="Center"/>
+                        <Label Text="{Binding Name}" Padding="20,0,0,0" FontSize="Medium"  VerticalTextAlignment="Center"/>
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>

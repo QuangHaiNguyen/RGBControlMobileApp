@@ -1,5 +1,8 @@
-﻿using System;
+﻿using RGBAppControl.Models;
+using RGBAppControl.Views;
+using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Text;
@@ -12,19 +15,22 @@ namespace RGBAppControl.ViewModels
     {
         public event PropertyChangedEventHandler PropertyChanged;
 
-        List<string> items;
-        public List<string> Items
+        ObservableCollection<Models.Device> devices;
+        
+        public ObservableCollection<Models.Device> Devices
         {
             get
             {
-                return items;
+                return devices;
             }
             set
             {
-                items = value;
+                devices = value;
                 NotifyPropertyChanged();
             }
         }
+
+
 
         string message;
         public string Message
@@ -46,22 +52,23 @@ namespace RGBAppControl.ViewModels
 
         public MainPageViewModel()
         {
-            Items = new List<string>();
+            Devices = new ObservableCollection<Models.Device>();
         }
 
-        public MainPageViewModel(List<string> startingItems)
+        public MainPageViewModel(ObservableCollection<Models.Device> startingItems)
         {
-            Items = startingItems;
+            Devices = startingItems;
         }
 
-        public ICommand EditCommand => new Command<string>((string item) =>
+        public ICommand EditCommand => new Command<Models.Device>((Models.Device item) =>
         {
-            Message = $"Edit command was called on: {item}";
+            Message = $"Edit command was called on: {item.Name}";
+            Application.Current.MainPage.Navigation.PushAsync(new EditDevicePage(item));
         });
 
-        public ICommand DeleteCommand => new Command<string>((string item) =>
+        public ICommand DeleteCommand => new Command<Models.Device>((Models.Device item) =>
         {
-            Message = $"Delete command was called on: {item}";
+            Message = $"Delete command was called on: {item.Name}";
         });
         public ICommand ControlCommand => new Command<string>((string item) =>
         {
