@@ -20,7 +20,7 @@
     
     <StackLayout>
         <Label Text="{Binding Message}"/>
-        <ListView ItemsSource="{Binding Items}">
+        <ListView ItemsSource="{Binding Items}>
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell >
