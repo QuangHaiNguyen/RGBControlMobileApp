@@ -1,0 +1,30 @@
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\bin\Debug\netstandard2.0\RGBAppControl.deps.json
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\bin\Debug\netstandard2.0\RGBAppControl.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\bin\Debug\netstandard2.0\ref\RGBAppControl.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\bin\Debug\netstandard2.0\RGBAppControl.pdb
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\RGBAppControl.csprojAssemblyReference.cache
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\RGBAppControl.csproj.CoreCompileInputs.cache
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\RGBAppControl.AssemblyInfoInputs.cache
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\RGBAppControl.AssemblyInfo.cs
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\RGBAppControl.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\ref\RGBAppControl.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\RGBAppControl.pdb
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\bin\Debug\netstandard2.0\RGBAppControl.deps.json
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\bin\Debug\netstandard2.0\RGBAppControl.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\bin\Debug\netstandard2.0\ref\RGBAppControl.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\bin\Debug\netstandard2.0\RGBAppControl.pdb
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\RGBAppControl.csprojAssemblyReference.cache
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\RGBAppControl.csproj.CoreCompileInputs.cache
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\RGBAppControl.AssemblyInfoInputs.cache
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\RGBAppControl.AssemblyInfo.cs
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\RGBAppControl.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\ref\RGBAppControl.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\RGBAppControl.pdb
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\Views\AddDevicePage.xaml.g.cs
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl\obj\Debug\netstandard2.0\Views\EditDevicePage.xaml.g.cs

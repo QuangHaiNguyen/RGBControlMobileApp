@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewmodels="clr-namespace:RGBAppControl.ViewModels"
+             mc:Ignorable="d"
+             x:Name="this"
+             x:Class="RGBAppControl.MainPage"
+             Title="RGB Light Control">
+
+
+    <ContentPage.BindingContext>
+        <viewmodels:MainPageViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
+    
+    <StackLayout>
+        <Label Text="{Binding Message}"/>
+        <ListView ItemsSource="{Binding Items}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell >
+                        <ViewCell.ContextActions>
+                            <MenuItem Text="Edit"
+                                    IconImageSource="icon.png"
+                                    Clicked="MenuItem_Clicked"/>
+                            <MenuItem Text="Delete"
+                                    Command="{Binding Source={x:Reference this}, Path=BindingContext.DeleteCommand}"
+                                    CommandParameter="{Binding .}"/>
+                            <MenuItem Text="Control"
+                                    Command="{Binding Source={x:Reference this}, Path=BindingContext.ControlCommand}"
+                                    CommandParameter="{Binding .}"/>
+                        </ViewCell.ContextActions>
+                        <Label Text="{Binding .}" Padding="20,0,0,0" FontSize="Medium"  VerticalTextAlignment="Center"/>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

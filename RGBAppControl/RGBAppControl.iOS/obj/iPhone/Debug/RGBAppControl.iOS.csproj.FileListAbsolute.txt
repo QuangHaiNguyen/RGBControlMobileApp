@@ -1,0 +1,118 @@
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\RGBAppControl.iOS.exe
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\RGBAppControl.iOS.pdb
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\RGBAppControl.dll
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\RGBAppControl.pdb
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\optimized\
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.csprojAssemblyReference.cache
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.csproj.CoreCompileInputs.cache
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.csproj.CopyComplete
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.exe
+C:\Users\haing\source\repos\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.pdb
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\RGBAppControl.iOS.exe
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\RGBAppControl.iOS.pdb
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\RGBAppControl.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\RGBAppControl.pdb
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\optimized\
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.csprojAssemblyReference.cache
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.csproj.CoreCompileInputs.cache
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\XamlC.stamp
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.csproj.CopyComplete
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.exe
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.pdb
