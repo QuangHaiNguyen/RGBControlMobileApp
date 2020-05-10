@@ -6,8 +6,8 @@
              mc:Ignorable="d"
              x:Class="RGBAppControl.Views.EditDevicePage">
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Cancel" Clicked="ToolbarItemCancel_Clicked"/>
-        <ToolbarItem Text="Update" Clicked="ToolbarItemUpdate_Clicked"/>
+        <ToolbarItem Text="Cancel" Command="{Binding CancelCommand}"/>
+        <ToolbarItem Text="Update" Command="{Binding UpdateCommand}"/>
     </ContentPage.ToolbarItems>
 
     <ContentPage.Content>
@@ -20,6 +20,7 @@
             <Editor Text="{Binding Device.Port}" d:Text="Item description" FontSize="Small" Margin="0" />
             <Label Text="Number Of LEDs:" FontSize="Medium" />
             <Editor Text="{Binding Device.Num_Of_Led}" d:Text="Item description" FontSize="Small" Margin="0" />
+            <Button Text="Delete" Command="{Binding DeleteCommand}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

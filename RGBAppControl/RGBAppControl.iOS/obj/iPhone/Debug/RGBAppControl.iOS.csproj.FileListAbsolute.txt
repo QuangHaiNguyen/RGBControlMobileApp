@@ -116,3 +116,8 @@ F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBApp
 F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.csproj.CopyComplete
 F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.exe
 F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\obj\iPhone\Debug\RGBAppControl.iOS.pdb
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\SQLite-net.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_green.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+F:\Nextcloud\My Work\ProjectWorkspace\Xamarin\RGBAppControl\RGBAppControl\RGBAppControl.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.sqlite3.dll

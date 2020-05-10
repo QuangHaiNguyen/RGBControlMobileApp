@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RGBAppControl.Views.ControlDevicePage">
+    <ContentPage.Content>
+        <StackLayout Spacing="20" Padding="15">
+            <Label Text="{Binding Device.Name}" FontSize="Small" />
+            <StackLayout Orientation="Horizontal">
+                <Label Text="{Binding Device.IP, StringFormat='{0}'}"  FontSize="Small" Margin="0" />
+                <Label Text="{Binding Device.Port, StringFormat=': {0}'}"  FontSize="Small" Margin="0" />
+            </StackLayout>
+            <BoxView x:Name="boxView"
+                 Color="{Binding Color}"
+                 HeightRequest="400"
+                     WidthRequest="400"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="R" Padding="0,0,10,0" />
+                <Slider Maximum="255" Minimum="0" WidthRequest="300" Value="{Binding Red}"/>
+                <Label Text="{Binding Red}"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="G" Padding="0,0,10,0"/>
+                <Slider Maximum="255" Minimum="0" WidthRequest="300" Value="{Binding Green}"/>
+                <Label Text="{Binding Green}"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="B" Padding="0,0,10,0"/>
+                <Slider Maximum="255" Minimum="0" WidthRequest="300" Value="{Binding Blue}"/>
+                <Label Text="{Binding Blue}"/>
+            </StackLayout>
+            <Button Text="Send" Command="{Binding SendCommand}"></Button>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

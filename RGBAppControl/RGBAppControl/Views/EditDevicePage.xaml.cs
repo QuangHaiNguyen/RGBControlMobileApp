@@ -1,6 +1,7 @@
 ﻿using RGBAppControl.ViewModels;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,14 +19,19 @@ namespace RGBAppControl.Views
             InitializeComponent();
         }
 
+
+
         public EditDevicePage(Models.Device selectedDevice)
         {
             InitializeComponent();
             BindingContext = new EditDevicePageViewModel(selectedDevice);
+            //BindingContext = this;
+            //Device = selectedDevice;
         }
 
         async void ToolbarItemUpdate_Clicked(object sender, EventArgs e)
         {
+            //Services.DataService.AddDevice(Device);
             await Navigation.PopModalAsync();
         }
 

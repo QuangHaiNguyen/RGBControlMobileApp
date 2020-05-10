@@ -1,4 +1,5 @@
 ﻿using RGBAppControl.Models;
+using RGBAppControl.Services;
 using RGBAppControl.Views;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,17 @@ namespace RGBAppControl.ViewModels
     public class MainPageViewModel : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
+
+        private bool _isRefreshing = false;
+        public bool IsRefreshing
+        {
+            get { return _isRefreshing; }
+            set
+            {
+                _isRefreshing = value;
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(IsRefreshing)));
+            }
+        }
 
         ObservableCollection<Models.Device> devices;
         
@@ -60,20 +72,32 @@ namespace RGBAppControl.ViewModels
             Devices = startingItems;
         }
 
-        public ICommand EditCommand => new Command<Models.Device>((Models.Device item) =>
+        public ICommand EditCommand => new Command<Models.Device>(async (Models.Device item) =>
         {
-            Message = $"Edit command was called on: {item.Name}";
-            Application.Current.MainPage.Navigation.PushAsync(new EditDevicePage(item));
+            await Application.Current.MainPage.Navigation.PushAsync(new EditDevicePage(item));
+            //await Application.Current.MainPage.Navigation.PushAsync(new EditDevicePage());
         });
 
-        public ICommand DeleteCommand => new Command<Models.Device>((Models.Device item) =>
+        public ICommand ControlCommand => new Command<Models.Device>(async (Models.Device item) =>
         {
-            Message = $"Delete command was called on: {item.Name}";
+            await Application.Current.MainPage.Navigation.PushAsync(new ControlDevicePage(item));
         });
-        public ICommand ControlCommand => new Command<string>((string item) =>
+
+        public ICommand RefreshCommand
         {
-            Message = $"Control command was called on: {item}";
-        });
+            get
+            {
+                return new Command(() =>
+                {
+                    IsRefreshing = true;
+
+                    devices = DataService.GetListOfDevices();
+                    NotifyPropertyChanged();
+
+                    IsRefreshing = false;
+                });
+            }
+        }
 
         protected virtual void NotifyPropertyChanged([CallerMemberName] string propertyName = "")
         {

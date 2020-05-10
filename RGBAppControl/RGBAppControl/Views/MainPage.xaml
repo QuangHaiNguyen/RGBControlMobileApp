@@ -17,10 +17,12 @@
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Clicked="ToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
-    
+
     <StackLayout>
-        <Label Text="{Binding Message}"/>
-        <ListView x:Name="DeviceList" ItemsSource="{Binding Devices}">
+        <ListView x:Name="DeviceList" ItemsSource="{Binding Devices}"
+                  IsPullToRefreshEnabled="True"
+                  RefreshCommand="{Binding RefreshCommand}"
+                  IsRefreshing="{Binding IsRefreshing}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
@@ -28,14 +30,11 @@
                             <MenuItem Text="Edit"
                                     Command="{Binding Source={x:Reference this}, Path=BindingContext.EditCommand}"
                                     CommandParameter="{Binding .}"/>
-                            <MenuItem Text="Delete"
-                                    Command="{Binding Source={x:Reference this}, Path=BindingContext.DeleteCommand}"
-                                    CommandParameter="{Binding .}"/>
                             <MenuItem Text="Control"
                                     Command="{Binding Source={x:Reference this}, Path=BindingContext.ControlCommand}"
                                     CommandParameter="{Binding .}"/>
                         </ViewCell.ContextActions>
-                        <Label Text="{Binding Name}" Padding="20,0,0,0" FontSize="Medium"  VerticalTextAlignment="Center"/>
+                        <Label Text="{Binding Name}" Padding="20,0,0,0" FontSize="Medium"  VerticalTextAlignment="Center" HeightRequest="200"/>
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>

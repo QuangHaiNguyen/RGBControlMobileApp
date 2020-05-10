@@ -3,33 +3,69 @@ using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Text;
+using SQLite;
+using System.Diagnostics;
 
 namespace RGBAppControl.Services
 {
-    public static class DataService
+    
+    public class DataService
     {
-        static ObservableCollection<Device> devices;
+        static SQLiteConnection conn;
 
-        public static ObservableCollection<Device> GetListItems()
+        public static void DeviceDatabase(string dbPath)
         {
-            
+            conn = new SQLiteConnection(dbPath);
+            conn.CreateTable<Device>();
+        }
 
-            devices = new ObservableCollection<Device>()
+        public static ObservableCollection<Device> GetListOfDevices()
+        {
+            try
             {
-                new Device { Id = Guid.NewGuid().ToString(), Name = "Device 1", IP = "192.168.0.38", Port = "13000", Num_Of_Led = "10"},
-                new Device { Id = Guid.NewGuid().ToString(), Name = "Device 2", IP = "192.168.0.2", Port = "13000", Num_Of_Led = "10" },
-                new Device { Id = Guid.NewGuid().ToString(), Name = "Device 3", IP = "192.168.0.3", Port = "13000", Num_Of_Led = "10" },
-                new Device { Id = Guid.NewGuid().ToString(), Name = "Device 4", IP = "192.168.0.4", Port = "13000", Num_Of_Led = "10" },
-                new Device { Id = Guid.NewGuid().ToString(), Name = "Device 5", IP = "192.168.0.5", Port = "13000", Num_Of_Led = "10" },
-                new Device { Id = Guid.NewGuid().ToString(), Name = "Device 6", IP = "192.168.0.6", Port = "13000", Num_Of_Led = "10" },
-            };
-
-            return devices;
+                return new ObservableCollection<Device>(conn.Table<Device>().ToList());
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine(ex);
+            }
+            
+            return new ObservableCollection<Device>();
         }
 
         public static void AddDevice(Device device) 
         {
-            devices.Add(device);
+            try
+            {
+                //basic validation to ensure a name was entered
+                if (device.Id != 0)
+                {
+                    conn.Update(device); ;
+                }
+                else
+                {
+                    if (string.IsNullOrEmpty(device.Name))
+                        throw new Exception("Valid name required");
+                    conn.Insert(device);
+                }
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine(ex);
+            }
+            
+        }
+
+        public static void DeleteDevice(Device device)
+        {
+            try
+            {
+                conn.Delete(device);
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine(ex);
+            }
         }
     }
 }
