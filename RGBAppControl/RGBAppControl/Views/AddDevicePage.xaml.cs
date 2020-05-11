@@ -39,6 +39,7 @@ namespace RGBAppControl.Views
         {
             DataService.AddDevice(Device);
             await Navigation.PopModalAsync();
+            await Application.Current.MainPage.DisplayAlert("Alert", "New device is created", "OK");
         }
     }
 }
